@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "rust/take_a_number/Cargo.toml"
+    ],
+    "files.associations": {
+        "time.h": "c",
+        "counters.h": "c"
+    }
+}
